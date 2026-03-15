@@ -17,7 +17,7 @@ An Python Script For Generating Payloads that Bypasses All Antivirus so far .
 - Mingw-w64 Compiler
 
 ## ⭕️ Getting Started
-1. ```git clone https://github.com/stormshadow07/HackTheWorld.git```
+1. ```git clone https://github.com/Bd-Mutant7/HackTheWorld```
 2. ```cd HackTheWorld```
 3. ```chmod +x install.sh && ./install.sh```
 
