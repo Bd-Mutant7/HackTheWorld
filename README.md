@@ -1,6 +1,9 @@
 # HackTheWorld
 An Python Script For Generating Payloads that Bypasses All Antivirus so far .
 
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+
+
 ## Screenshot
 ![snap1](https://user-images.githubusercontent.com/33988926/36351226-b781c05e-14cc-11e8-8c3d-53bcc68b0ead.png)
 
